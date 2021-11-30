@@ -1,0 +1,1 @@
+# GOBankingRates-Attribution-Variable
